@@ -37,7 +37,11 @@ In the main activity place an image and the play button, create a method to mana
 
 ### 5. Create the Gameplay activity
 
+### 6. Create a SurfaceView to paint the game
 
+Create a new class that inherits from SurfaceView, and implements the Runnable interface
+
+### 7. 
 
 ## Assets taken from
 CAR SPRITE:  www.lonegames.net https://opengameart.org/content/ice-cream-car
