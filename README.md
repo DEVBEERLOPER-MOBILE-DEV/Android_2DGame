@@ -43,6 +43,8 @@ Create a new class that inherits from SurfaceView, and implements the Runnable i
 
 ### 7. Add the runnable
 
+
+
 ## Assets taken from
 CAR SPRITE:  www.lonegames.net https://opengameart.org/content/ice-cream-car
 KID https://opengameart.org/content/pixel-kid
