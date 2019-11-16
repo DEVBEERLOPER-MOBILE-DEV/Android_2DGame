@@ -31,7 +31,14 @@ Configure a new style inside the res/values/styles.xml file.
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
 
-### 4. 
+### 4. Create your menu
+
+In the main activity place an image and the play button, create a method to manage the action of the button, this method has to redirect to a new activity.
+
+### 5. Create the Gameplay activity
+
+
+
 ## Assets taken from
 CAR SPRITE:  www.lonegames.net https://opengameart.org/content/ice-cream-car
 KID https://opengameart.org/content/pixel-kid
