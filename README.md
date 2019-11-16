@@ -41,7 +41,7 @@ In the main activity place an image and the play button, create a method to mana
 
 Create a new class that inherits from SurfaceView, and implements the Runnable interface
 
-### 7. 
+### 7. Add the runnable
 
 ## Assets taken from
 CAR SPRITE:  www.lonegames.net https://opengameart.org/content/ice-cream-car
